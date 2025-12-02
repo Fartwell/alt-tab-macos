@@ -538,12 +538,14 @@ enum BlacklistHidePreference: String/* required for jsonEncode */, CaseIterable,
     case none = "0"
     case always = "1"
     case whenNoOpenWindow = "2"
+    case whenAppIsHidden = "3"
 
     var localizedString: LocalizedString {
         switch self {
             case .none: return ""
             case .always: return NSLocalizedString("Always", comment: "")
             case .whenNoOpenWindow: return NSLocalizedString("When no open window", comment: "")
+            case .whenAppIsHidden: return NSLocalizedString("When app is hidden", comment: "")
         }
     }
 }

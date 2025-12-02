@@ -228,6 +228,7 @@
 "Vim keys already assigned to other actions:\n%@" = "Vim keys already assigned to other actions:\n%@";
 "Visibility" = "Visibility";
 "Visible Spaces" = "Visible Spaces";
+"When app is hidden" = "When app is hidden";
 "When fullscreen" = "When fullscreen";
 "When no open window" = "When no open window";
 "While open, press:" = "While open, press:";

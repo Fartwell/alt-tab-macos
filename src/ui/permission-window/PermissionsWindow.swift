@@ -27,7 +27,7 @@ class PermissionsWindow: NSWindow {
     }
 
     private func setupWindow() {
-        title = NSLocalizedString("AltTab needs some permissions", comment: "")
+        title = permissionsTitle()
         hidesOnDeactivate = false
         isReleasedWhenClosed = false
         styleMask.insert([.miniaturizable, .closable])
@@ -37,7 +37,7 @@ class PermissionsWindow: NSWindow {
         let appIcon = LightImageView()
         appIcon.updateWithResizedCopy(App.appIcon, NSSize(width: 80, height: 80))
         appIcon.fit(80, 80)
-        let appText = TitleLabel(NSLocalizedString("AltTab needs some permissions", comment: ""))
+        let appText = TitleLabel(permissionsTitle())
         appText.preferredMaxLayoutWidth = 380
         appText.font = .systemFont(ofSize: 25, weight: .regular)
         let header = NSStackView(views: [appIcon, appText])
@@ -71,6 +71,11 @@ class PermissionsWindow: NSWindow {
         view.fit()
         setContentSize(view.fittingSize)
         contentView = view
+    }
+
+    private func permissionsTitle() -> String {
+        return NSLocalizedString("AltTab needs some permissions", comment: "")
+            .replacingOccurrences(of: "AltTab", with: App.name)
     }
 }
 

@@ -94,7 +94,12 @@ class App: AppCenterApplication {
     }
 
     func closeSelectedWindow() {
-        Windows.focusedWindow()?.close()
+        guard let window = Windows.focusedWindow() else { return }
+        if Preferences.shouldHideInsteadOfClose(window.application.bundleIdentifier) {
+            window.application.runningApplication.hide()
+            return
+        }
+        window.close()
     }
 
     func minDeminSelectedWindow() {
@@ -293,7 +298,7 @@ extension App: NSApplicationDelegate {
         appCenterDelegate = AppCenterCrash()
         App.shared.disableRelaunchOnLogin()
         Logger.initialize()
-        Logger.info("Launching AltTab \(App.version)")
+        Logger.info("Launching \(App.name) \(App.version)")
         #if DEBUG
         UserDefaults.standard.set(true, forKey: "NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints")
         #endif
@@ -327,7 +332,7 @@ extension App: NSApplicationDelegate {
             TrackpadEvents.observe()
             CliEvents.observe()
             self.preloadWindows()
-            Logger.info("AltTab finished launching")
+            Logger.info("\(App.name) finished launching")
             #if DEBUG
 //            self.showPreferencesWindow()
             #endif

@@ -7,7 +7,7 @@
     <item>
       <title>Version 7.31.0</title>
       <pubDate>Sun, 26 Oct 2025 16:45:12 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.31.0/AltTab-7.31.0.zip"
@@ -21,7 +21,7 @@
     <item>
       <title>Version 7.30.0</title>
       <pubDate>Tue, 23 Sep 2025 22:05:12 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.30.0/AltTab-7.30.0.zip"
@@ -35,7 +35,7 @@
     <item>
       <title>Version 7.29.0</title>
       <pubDate>Sat, 20 Sep 2025 13:15:19 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.29.0/AltTab-7.29.0.zip"
@@ -49,7 +49,7 @@
     <item>
       <title>Version 7.28.0</title>
       <pubDate>Mon, 15 Sep 2025 20:18:19 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.28.0/AltTab-7.28.0.zip"
@@ -63,7 +63,7 @@
     <item>
       <title>Version 7.27.0</title>
       <pubDate>Tue, 12 Aug 2025 20:02:48 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.27.0/AltTab-7.27.0.zip"
@@ -77,7 +77,7 @@
     <item>
       <title>Version 7.26.0</title>
       <pubDate>Thu, 31 Jul 2025 17:55:14 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.26.0/AltTab-7.26.0.zip"
@@ -91,7 +91,7 @@
     <item>
       <title>Version 7.25.0</title>
       <pubDate>Sat, 14 Jun 2025 12:29:16 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.25.0/AltTab-7.25.0.zip"
@@ -105,7 +105,7 @@
     <item>
       <title>Version 7.24.0</title>
       <pubDate>Mon, 05 May 2025 10:07:18 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.24.0/AltTab-7.24.0.zip"
@@ -119,7 +119,7 @@
     <item>
       <title>Version 7.23.0</title>
       <pubDate>Tue, 01 Apr 2025 21:38:22 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.23.0/AltTab-7.23.0.zip"
@@ -133,7 +133,7 @@
     <item>
       <title>Version 7.22.0</title>
       <pubDate>Sun, 30 Mar 2025 00:58:16 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.22.0/AltTab-7.22.0.zip"
@@ -147,7 +147,7 @@
     <item>
       <title>Version 7.21.1</title>
       <pubDate>Sat, 22 Feb 2025 09:54:40 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.21.1/AltTab-7.21.1.zip"
@@ -161,7 +161,7 @@
     <item>
       <title>Version 7.21.0</title>
       <pubDate>Fri, 21 Feb 2025 21:33:30 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.21.0/AltTab-7.21.0.zip"
@@ -175,7 +175,7 @@
     <item>
       <title>Version 7.20.1</title>
       <pubDate>Thu, 20 Feb 2025 07:11:47 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.20.1/AltTab-7.20.1.zip"
@@ -189,7 +189,7 @@
     <item>
       <title>Version 7.20.0</title>
       <pubDate>Wed, 19 Feb 2025 17:48:04 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.20.0/AltTab-7.20.0.zip"
@@ -203,7 +203,7 @@
     <item>
       <title>Version 7.19.1</title>
       <pubDate>Tue, 14 Jan 2025 21:43:35 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.19.1/AltTab-7.19.1.zip"
@@ -217,7 +217,7 @@
     <item>
       <title>Version 7.19.0</title>
       <pubDate>Tue, 14 Jan 2025 17:36:58 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.19.0/AltTab-7.19.0.zip"
@@ -231,7 +231,7 @@
     <item>
       <title>Version 7.18.1</title>
       <pubDate>Sun, 12 Jan 2025 21:32:56 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.18.1/AltTab-7.18.1.zip"
@@ -245,7 +245,7 @@
     <item>
       <title>Version 7.18.0</title>
       <pubDate>Tue, 07 Jan 2025 00:20:42 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.18.0/AltTab-7.18.0.zip"
@@ -259,7 +259,7 @@
     <item>
       <title>Version 7.17.0</title>
       <pubDate>Sun, 05 Jan 2025 18:28:41 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.17.0/AltTab-7.17.0.zip"
@@ -273,7 +273,7 @@
     <item>
       <title>Version 7.16.0</title>
       <pubDate>Sat, 04 Jan 2025 01:31:25 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.16.0/AltTab-7.16.0.zip"
@@ -287,7 +287,7 @@
     <item>
       <title>Version 7.15.0</title>
       <pubDate>Thu, 02 Jan 2025 18:33:13 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.15.0/AltTab-7.15.0.zip"
@@ -301,7 +301,7 @@
     <item>
       <title>Version 7.14.1</title>
       <pubDate>Sat, 28 Dec 2024 18:25:55 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.14.1/AltTab-7.14.1.zip"
@@ -315,7 +315,7 @@
     <item>
       <title>Version 7.14.0</title>
       <pubDate>Thu, 26 Dec 2024 23:41:11 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.14.0/AltTab-7.14.0.zip"
@@ -329,7 +329,7 @@
     <item>
       <title>Version 7.13.1</title>
       <pubDate>Tue, 24 Dec 2024 09:01:53 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.13.1/AltTab-7.13.1.zip"
@@ -343,7 +343,7 @@
     <item>
       <title>Version 7.13.0</title>
       <pubDate>Tue, 24 Dec 2024 01:55:31 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.13.0/AltTab-7.13.0.zip"
@@ -357,7 +357,7 @@
     <item>
       <title>Version 7.12.0</title>
       <pubDate>Wed, 11 Dec 2024 20:58:56 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.12.0/AltTab-7.12.0.zip"
@@ -371,7 +371,7 @@
     <item>
       <title>Version 7.11.0</title>
       <pubDate>Mon, 09 Dec 2024 23:06:13 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.11.0/AltTab-7.11.0.zip"
@@ -385,7 +385,7 @@
     <item>
       <title>Version 7.10.0</title>
       <pubDate>Sun, 08 Dec 2024 11:36:39 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.10.0/AltTab-7.10.0.zip"
@@ -399,7 +399,7 @@
     <item>
       <title>Version 7.9.0</title>
       <pubDate>Sat, 07 Dec 2024 17:17:46 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.9.0/AltTab-7.9.0.zip"
@@ -413,7 +413,7 @@
     <item>
       <title>Version 7.8.0</title>
       <pubDate>Fri, 06 Dec 2024 16:44:34 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.8.0/AltTab-7.8.0.zip"
@@ -427,7 +427,7 @@
     <item>
       <title>Version 7.7.0</title>
       <pubDate>Tue, 03 Dec 2024 23:26:56 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.7.0/AltTab-7.7.0.zip"
@@ -441,7 +441,7 @@
     <item>
       <title>Version 7.6.0</title>
       <pubDate>Sun, 01 Dec 2024 21:24:26 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.6.0/AltTab-7.6.0.zip"
@@ -455,7 +455,7 @@
     <item>
       <title>Version 7.5.0</title>
       <pubDate>Wed, 27 Nov 2024 09:55:37 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.5.0/AltTab-7.5.0.zip"
@@ -469,7 +469,7 @@
     <item>
       <title>Version 7.4.0</title>
       <pubDate>Sat, 16 Nov 2024 15:47:33 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.4.0/AltTab-7.4.0.zip"
@@ -483,7 +483,7 @@
     <item>
       <title>Version 7.3.0</title>
       <pubDate>Sun, 10 Nov 2024 18:02:28 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.3.0/AltTab-7.3.0.zip"
@@ -497,7 +497,7 @@
     <item>
       <title>Version 7.2.0</title>
       <pubDate>Mon, 04 Nov 2024 22:54:42 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.2.0/AltTab-7.2.0.zip"
@@ -511,7 +511,7 @@
     <item>
       <title>Version 7.1.1</title>
       <pubDate>Sun, 03 Nov 2024 00:28:20 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.1.1/AltTab-7.1.1.zip"
@@ -525,7 +525,7 @@
     <item>
       <title>Version 7.1.0</title>
       <pubDate>Sat, 02 Nov 2024 21:32:24 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.1.0/AltTab-7.1.0.zip"
@@ -539,7 +539,7 @@
     <item>
       <title>Version 7.0.2</title>
       <pubDate>Sat, 12 Oct 2024 11:09:58 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.0.2/AltTab-7.0.2.zip"
@@ -553,7 +553,7 @@
     <item>
       <title>Version 7.0.1</title>
       <pubDate>Fri, 11 Oct 2024 10:14:05 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.0.1/AltTab-7.0.1.zip"
@@ -567,7 +567,7 @@
     <item>
       <title>Version 7.0.0</title>
       <pubDate>Wed, 09 Oct 2024 21:13:05 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v7.0.0/AltTab-7.0.0.zip"
@@ -581,7 +581,7 @@
     <item>
       <title>Version 6.73.0</title>
       <pubDate>Tue, 08 Oct 2024 20:34:05 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.73.0/AltTab-6.73.0.zip"
@@ -595,7 +595,7 @@
     <item>
       <title>Version 6.72.0</title>
       <pubDate>Sun, 14 Jul 2024 17:02:37 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.72.0/AltTab-6.72.0.zip"
@@ -609,7 +609,7 @@
     <item>
       <title>Version 6.71.0</title>
       <pubDate>Sat, 06 Jul 2024 10:30:07 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.71.0/AltTab-6.71.0.zip"
@@ -623,7 +623,7 @@
     <item>
       <title>Version 6.70.1</title>
       <pubDate>Sat, 01 Jun 2024 11:38:14 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.70.1/AltTab-6.70.1.zip"
@@ -637,7 +637,7 @@
     <item>
       <title>Version 6.70.0</title>
       <pubDate>Wed, 29 May 2024 22:15:40 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.70.0/AltTab-6.70.0.zip"
@@ -651,7 +651,7 @@
     <item>
       <title>Version 6.69.0</title>
       <pubDate>Sun, 12 May 2024 20:18:45 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.69.0/AltTab-6.69.0.zip"
@@ -665,7 +665,7 @@
     <item>
       <title>Version 6.68.0</title>
       <pubDate>Wed, 03 Apr 2024 19:30:49 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.68.0/AltTab-6.68.0.zip"
@@ -679,7 +679,7 @@
     <item>
       <title>Version 6.67.0</title>
       <pubDate>Fri, 15 Mar 2024 17:33:19 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.67.0/AltTab-6.67.0.zip"
@@ -693,7 +693,7 @@
     <item>
       <title>Version 6.66.0</title>
       <pubDate>Sun, 03 Mar 2024 12:03:26 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.66.0/AltTab-6.66.0.zip"
@@ -707,7 +707,7 @@
     <item>
       <title>Version 6.65.0</title>
       <pubDate>Mon, 29 Jan 2024 17:14:02 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.65.0/AltTab-6.65.0.zip"
@@ -721,7 +721,7 @@
     <item>
       <title>Version 6.64.0</title>
       <pubDate>Tue, 24 Oct 2023 21:47:44 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.64.0/AltTab-6.64.0.zip"
@@ -735,7 +735,7 @@
     <item>
       <title>Version 6.63.0</title>
       <pubDate>Fri, 20 Oct 2023 20:09:42 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.63.0/AltTab-6.63.0.zip"
@@ -749,7 +749,7 @@
     <item>
       <title>Version 6.62.0</title>
       <pubDate>Tue, 10 Oct 2023 20:47:37 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.62.0/AltTab-6.62.0.zip"
@@ -763,7 +763,7 @@
     <item>
       <title>Version 6.61.0</title>
       <pubDate>Wed, 12 Jul 2023 19:44:31 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.61.0/AltTab-6.61.0.zip"
@@ -777,7 +777,7 @@
     <item>
       <title>Version 6.60.0</title>
       <pubDate>Fri, 23 Jun 2023 22:03:14 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.60.0/AltTab-6.60.0.zip"
@@ -791,7 +791,7 @@
     <item>
       <title>Version 6.59.0</title>
       <pubDate>Sun, 04 Jun 2023 16:07:18 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.59.0/AltTab-6.59.0.zip"
@@ -805,7 +805,7 @@
     <item>
       <title>Version 6.58.0</title>
       <pubDate>Mon, 15 May 2023 20:58:26 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.58.0/AltTab-6.58.0.zip"
@@ -819,7 +819,7 @@
     <item>
       <title>Version 6.57.0</title>
       <pubDate>Tue, 09 May 2023 21:19:23 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.57.0/AltTab-6.57.0.zip"
@@ -833,7 +833,7 @@
     <item>
       <title>Version 6.56.0</title>
       <pubDate>Thu, 16 Mar 2023 10:27:11 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.56.0/AltTab-6.56.0.zip"
@@ -847,7 +847,7 @@
     <item>
       <title>Version 6.55.0</title>
       <pubDate>Thu, 23 Feb 2023 18:39:17 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.55.0/AltTab-6.55.0.zip"
@@ -861,7 +861,7 @@
     <item>
       <title>Version 6.54.0</title>
       <pubDate>Mon, 20 Feb 2023 18:20:53 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.54.0/AltTab-6.54.0.zip"
@@ -875,7 +875,7 @@
     <item>
       <title>Version 6.53.1</title>
       <pubDate>Sun, 12 Feb 2023 18:25:56 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.53.1/AltTab-6.53.1.zip"
@@ -889,7 +889,7 @@
     <item>
       <title>Version 6.53.0</title>
       <pubDate>Thu, 09 Feb 2023 20:59:05 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.53.0/AltTab-6.53.0.zip"
@@ -903,7 +903,7 @@
     <item>
       <title>Version 6.52.1</title>
       <pubDate>Wed, 28 Dec 2022 23:57:18 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.52.1/AltTab-6.52.1.zip"
@@ -917,7 +917,7 @@
     <item>
       <title>Version 6.52.0</title>
       <pubDate>Wed, 28 Dec 2022 23:12:04 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.52.0/AltTab-6.52.0.zip"
@@ -931,7 +931,7 @@
     <item>
       <title>Version 6.51.0</title>
       <pubDate>Wed, 16 Nov 2022 21:34:52 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.51.0/AltTab-6.51.0.zip"
@@ -945,7 +945,7 @@
     <item>
       <title>Version 6.50.0</title>
       <pubDate>Mon, 14 Nov 2022 17:53:45 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.50.0/AltTab-6.50.0.zip"
@@ -959,7 +959,7 @@
     <item>
       <title>Version 6.49.0</title>
       <pubDate>Wed, 02 Nov 2022 19:49:10 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.49.0/AltTab-6.49.0.zip"
@@ -973,7 +973,7 @@
     <item>
       <title>Version 6.48.0</title>
       <pubDate>Thu, 27 Oct 2022 09:31:05 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.48.0/AltTab-6.48.0.zip"
@@ -987,7 +987,7 @@
     <item>
       <title>Version 6.47.0</title>
       <pubDate>Fri, 14 Oct 2022 21:45:56 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.47.0/AltTab-6.47.0.zip"
@@ -1001,7 +1001,7 @@
     <item>
       <title>Version 6.46.1</title>
       <pubDate>Fri, 24 Jun 2022 10:17:14 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.46.1/AltTab-6.46.1.zip"
@@ -1015,7 +1015,7 @@
     <item>
       <title>Version 6.46.0</title>
       <pubDate>Thu, 23 Jun 2022 09:45:13 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.46.0/AltTab-6.46.0.zip"
@@ -1029,7 +1029,7 @@
     <item>
       <title>Version 6.45.0</title>
       <pubDate>Tue, 21 Jun 2022 17:24:49 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.45.0/AltTab-6.45.0.zip"
@@ -1043,7 +1043,7 @@
     <item>
       <title>Version 6.44.0</title>
       <pubDate>Sun, 19 Jun 2022 15:53:04 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.44.0/AltTab-6.44.0.zip"
@@ -1057,7 +1057,7 @@
     <item>
       <title>Version 6.43.0</title>
       <pubDate>Tue, 14 Jun 2022 07:17:57 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.43.0/AltTab-6.43.0.zip"
@@ -1071,7 +1071,7 @@
     <item>
       <title>Version 6.42.0</title>
       <pubDate>Tue, 07 Jun 2022 11:55:34 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.42.0/AltTab-6.42.0.zip"
@@ -1085,7 +1085,7 @@
     <item>
       <title>Version 6.41.1</title>
       <pubDate>Sun, 05 Jun 2022 03:19:40 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.41.1/AltTab-6.41.1.zip"
@@ -1099,7 +1099,7 @@
     <item>
       <title>Version 6.41.0</title>
       <pubDate>Wed, 01 Jun 2022 10:31:12 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.41.0/AltTab-6.41.0.zip"
@@ -1113,7 +1113,7 @@
     <item>
       <title>Version 6.40.0</title>
       <pubDate>Fri, 27 May 2022 17:53:30 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.40.0/AltTab-6.40.0.zip"
@@ -1127,7 +1127,7 @@
     <item>
       <title>Version 6.39.1</title>
       <pubDate>Thu, 26 May 2022 15:54:09 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.39.1/AltTab-6.39.1.zip"
@@ -1141,7 +1141,7 @@
     <item>
       <title>Version 6.39.0</title>
       <pubDate>Thu, 26 May 2022 13:57:59 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.39.0/AltTab-6.39.0.zip"
@@ -1155,7 +1155,7 @@
     <item>
       <title>Version 6.38.0</title>
       <pubDate>Tue, 24 May 2022 15:12:27 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.38.0/AltTab-6.38.0.zip"
@@ -1169,7 +1169,7 @@
     <item>
       <title>Version 6.37.1</title>
       <pubDate>Thu, 12 May 2022 13:56:18 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.37.1/AltTab-6.37.1.zip"
@@ -1183,7 +1183,7 @@
     <item>
       <title>Version 6.37.0</title>
       <pubDate>Thu, 12 May 2022 12:44:50 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.37.0/AltTab-6.37.0.zip"
@@ -1197,7 +1197,7 @@
     <item>
       <title>Version 6.36.2</title>
       <pubDate>Wed, 11 May 2022 14:55:20 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.36.2/AltTab-6.36.2.zip"
@@ -1211,7 +1211,7 @@
     <item>
       <title>Version 6.36.1</title>
       <pubDate>Sat, 07 May 2022 09:34:02 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.36.1/AltTab-6.36.1.zip"
@@ -1225,7 +1225,7 @@
     <item>
       <title>Version 6.36.0</title>
       <pubDate>Fri, 06 May 2022 17:53:04 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.36.0/AltTab-6.36.0.zip"
@@ -1239,7 +1239,7 @@
     <item>
       <title>Version 6.35.0</title>
       <pubDate>Thu, 05 May 2022 15:46:31 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.35.0/AltTab-6.35.0.zip"
@@ -1253,7 +1253,7 @@
     <item>
       <title>Version 6.34.1</title>
       <pubDate>Sat, 30 Apr 2022 15:50:21 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.34.1/AltTab-6.34.1.zip"
@@ -1267,7 +1267,7 @@
     <item>
       <title>Version 6.34.0</title>
       <pubDate>Thu, 28 Apr 2022 14:33:32 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.34.0/AltTab-6.34.0.zip"
@@ -1281,7 +1281,7 @@
     <item>
       <title>Version 6.33.0</title>
       <pubDate>Fri, 08 Apr 2022 10:22:54 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.33.0/AltTab-6.33.0.zip"
@@ -1295,7 +1295,7 @@
     <item>
       <title>Version 6.32.0</title>
       <pubDate>Thu, 07 Apr 2022 13:16:43 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.32.0/AltTab-6.32.0.zip"
@@ -1309,7 +1309,7 @@
     <item>
       <title>Version 6.31.0</title>
       <pubDate>Thu, 10 Feb 2022 03:03:12 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.31.0/AltTab-6.31.0.zip"
@@ -1323,7 +1323,7 @@
     <item>
       <title>Version 6.30.0</title>
       <pubDate>Sat, 05 Feb 2022 03:15:07 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.30.0/AltTab-6.30.0.zip"
@@ -1337,7 +1337,7 @@
     <item>
       <title>Version 6.29.0</title>
       <pubDate>Wed, 01 Dec 2021 16:02:02 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.29.0/AltTab-6.29.0.zip"
@@ -1351,7 +1351,7 @@
     <item>
       <title>Version 6.28.0</title>
       <pubDate>Fri, 19 Nov 2021 14:41:07 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.28.0/AltTab-6.28.0.zip"
@@ -1365,7 +1365,7 @@
     <item>
       <title>Version 6.27.1</title>
       <pubDate>Sat, 13 Nov 2021 11:48:33 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.27.1/AltTab-6.27.1.zip"
@@ -1379,7 +1379,7 @@
     <item>
       <title>Version 6.27.0</title>
       <pubDate>Fri, 12 Nov 2021 17:54:01 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.27.0/AltTab-6.27.0.zip"
@@ -1393,7 +1393,7 @@
     <item>
       <title>Version 6.26.0</title>
       <pubDate>Wed, 13 Oct 2021 12:43:20 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.26.0/AltTab-6.26.0.zip"
@@ -1407,7 +1407,7 @@
     <item>
       <title>Version 6.25.0</title>
       <pubDate>Sat, 18 Sep 2021 14:24:15 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.25.0/AltTab-6.25.0.zip"
@@ -1421,7 +1421,7 @@
     <item>
       <title>Version 6.24.0</title>
       <pubDate>Sat, 04 Sep 2021 14:43:25 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.24.0/AltTab-6.24.0.zip"
@@ -1435,7 +1435,7 @@
     <item>
       <title>Version 6.23.0</title>
       <pubDate>Mon, 30 Aug 2021 17:12:06 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.23.0/AltTab-6.23.0.zip"
@@ -1449,7 +1449,7 @@
     <item>
       <title>Version 6.22.1</title>
       <pubDate>Wed, 12 May 2021 11:04:33 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.22.1/AltTab-6.22.1.zip"
@@ -1463,7 +1463,7 @@
     <item>
       <title>Version 6.22.0</title>
       <pubDate>Mon, 10 May 2021 18:44:39 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.22.0/AltTab-6.22.0.zip"
@@ -1477,7 +1477,7 @@
     <item>
       <title>Version 6.21.2</title>
       <pubDate>Tue, 20 Apr 2021 12:13:34 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.21.2/AltTab-6.21.2.zip"
@@ -1491,7 +1491,7 @@
     <item>
       <title>Version 6.21.1</title>
       <pubDate>Mon, 19 Apr 2021 14:17:10 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.21.1/AltTab-6.21.1.zip"
@@ -1505,7 +1505,7 @@
     <item>
       <title>Version 6.21.0</title>
       <pubDate>Sat, 17 Apr 2021 11:27:32 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.21.0/AltTab-6.21.0.zip"
@@ -1519,7 +1519,7 @@
     <item>
       <title>Version 6.20.0</title>
       <pubDate>Thu, 15 Apr 2021 10:44:09 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.20.0/AltTab-6.20.0.zip"
@@ -1533,7 +1533,7 @@
     <item>
       <title>Version 6.19.0</title>
       <pubDate>Wed, 14 Apr 2021 07:49:54 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.19.0/AltTab-6.19.0.zip"
@@ -1547,7 +1547,7 @@
     <item>
       <title>Version 6.18.1</title>
       <pubDate>Sat, 13 Mar 2021 15:44:20 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.18.1/AltTab-6.18.1.zip"
@@ -1561,7 +1561,7 @@
     <item>
       <title>Version 6.18.0</title>
       <pubDate>Sat, 13 Mar 2021 15:07:58 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.18.0/AltTab-6.18.0.zip"
@@ -1575,7 +1575,7 @@
     <item>
       <title>Version 6.17.0</title>
       <pubDate>Fri, 26 Feb 2021 03:03:42 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.17.0/AltTab-6.17.0.zip"
@@ -1589,7 +1589,7 @@
     <item>
       <title>Version 6.16.0</title>
       <pubDate>Wed, 24 Feb 2021 17:24:00 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.16.0/AltTab-6.16.0.zip"
@@ -1603,7 +1603,7 @@
     <item>
       <title>Version 6.15.3</title>
       <pubDate>Tue, 23 Feb 2021 16:33:49 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.15.3/AltTab-6.15.3.zip"
@@ -1617,7 +1617,7 @@
     <item>
       <title>Version 6.15.2</title>
       <pubDate>Tue, 23 Feb 2021 14:57:49 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.15.2/AltTab-6.15.2.zip"
@@ -1631,7 +1631,7 @@
     <item>
       <title>Version 6.15.1</title>
       <pubDate>Tue, 16 Feb 2021 06:24:55 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.15.1/AltTab-6.15.1.zip"
@@ -1645,7 +1645,7 @@
     <item>
       <title>Version 6.15.0</title>
       <pubDate>Tue, 02 Feb 2021 07:27:09 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.15.0/AltTab-6.15.0.zip"
@@ -1659,7 +1659,7 @@
     <item>
       <title>Version 6.14.0</title>
       <pubDate>Mon, 01 Feb 2021 17:11:38 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.14.0/AltTab-6.14.0.zip"
@@ -1673,7 +1673,7 @@
     <item>
       <title>Version 6.13.0</title>
       <pubDate>Mon, 25 Jan 2021 15:18:14 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.13.0/AltTab-6.13.0.zip"
@@ -1687,7 +1687,7 @@
     <item>
       <title>Version 6.12.0</title>
       <pubDate>Tue, 17 Nov 2020 16:51:35 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.12.0/AltTab-6.12.0.zip"
@@ -1701,7 +1701,7 @@
     <item>
       <title>Version 6.11.0</title>
       <pubDate>Wed, 11 Nov 2020 15:48:36 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.11.0/AltTab-6.11.0.zip"
@@ -1715,7 +1715,7 @@
     <item>
       <title>Version 6.10.0</title>
       <pubDate>Mon, 09 Nov 2020 17:36:53 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.10.0/AltTab-6.10.0.zip"
@@ -1729,7 +1729,7 @@
     <item>
       <title>Version 6.9.0</title>
       <pubDate>Tue, 27 Oct 2020 14:00:08 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.9.0/AltTab-6.9.0.zip"
@@ -1743,7 +1743,7 @@
     <item>
       <title>Version 6.8.0</title>
       <pubDate>Mon, 26 Oct 2020 17:11:12 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.8.0/AltTab-6.8.0.zip"
@@ -1757,7 +1757,7 @@
     <item>
       <title>Version 6.7.4</title>
       <pubDate>Thu, 15 Oct 2020 14:56:53 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.7.4/AltTab-6.7.4.zip"
@@ -1771,7 +1771,7 @@
     <item>
       <title>Version 6.7.3</title>
       <pubDate>Sat, 10 Oct 2020 04:55:31 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.7.3/AltTab-6.7.3.zip"
@@ -1785,7 +1785,7 @@
     <item>
       <title>Version 6.7.2</title>
       <pubDate>Tue, 06 Oct 2020 17:29:19 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.7.2/AltTab-6.7.2.zip"
@@ -1799,7 +1799,7 @@
     <item>
       <title>Version 6.7.1</title>
       <pubDate>Sun, 27 Sep 2020 17:08:17 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.7.1/AltTab-6.7.1.zip"
@@ -1813,7 +1813,7 @@
     <item>
       <title>Version 6.7.0</title>
       <pubDate>Fri, 25 Sep 2020 10:30:47 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.7.0/AltTab-6.7.0.zip"
@@ -1827,7 +1827,7 @@
     <item>
       <title>Version 6.6.0</title>
       <pubDate>Mon, 14 Sep 2020 13:28:59 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.6.0/AltTab-6.6.0.zip"
@@ -1841,7 +1841,7 @@
     <item>
       <title>Version 6.5.0</title>
       <pubDate>Wed, 09 Sep 2020 15:05:08 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.5.0/AltTab-6.5.0.zip"
@@ -1855,7 +1855,7 @@
     <item>
       <title>Version 6.4.0</title>
       <pubDate>Tue, 08 Sep 2020 16:06:09 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.4.0/AltTab-6.4.0.zip"
@@ -1869,7 +1869,7 @@
     <item>
       <title>Version 6.3.0</title>
       <pubDate>Tue, 08 Sep 2020 11:01:56 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.3.0/AltTab-6.3.0.zip"
@@ -1883,7 +1883,7 @@
     <item>
       <title>Version 6.2.0</title>
       <pubDate>Fri, 04 Sep 2020 19:18:53 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.2.0/AltTab-6.2.0.zip"
@@ -1897,7 +1897,7 @@
     <item>
       <title>Version 6.1.0</title>
       <pubDate>Mon, 31 Aug 2020 06:09:52 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.1.0/AltTab-6.1.0.zip"
@@ -1911,7 +1911,7 @@
     <item>
       <title>Version 6.0.0</title>
       <pubDate>Thu, 27 Aug 2020 15:07:22 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v6.0.0/AltTab-6.0.0.zip"
@@ -1925,7 +1925,7 @@
     <item>
       <title>Version 5.3.0</title>
       <pubDate>Tue, 25 Aug 2020 18:06:14 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v5.3.0/AltTab-5.3.0.zip"
@@ -1939,7 +1939,7 @@
     <item>
       <title>Version 5.2.0</title>
       <pubDate>Mon, 24 Aug 2020 17:16:11 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v5.2.0/AltTab-5.2.0.zip"
@@ -1953,7 +1953,7 @@
     <item>
       <title>Version 5.1.0</title>
       <pubDate>Thu, 20 Aug 2020 11:11:38 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v5.1.0/AltTab-5.1.0.zip"
@@ -1967,7 +1967,7 @@
     <item>
       <title>Version 5.0.0</title>
       <pubDate>Tue, 18 Aug 2020 14:52:57 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v5.0.0/AltTab-5.0.0.zip"
@@ -1981,7 +1981,7 @@
     <item>
       <title>Version 4.19.0</title>
       <pubDate>Tue, 11 Aug 2020 16:41:16 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.19.0/AltTab-4.19.0.zip"
@@ -1995,7 +1995,7 @@
     <item>
       <title>Version 4.18.0</title>
       <pubDate>Tue, 11 Aug 2020 04:17:43 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.18.0/AltTab-4.18.0.zip"
@@ -2009,7 +2009,7 @@
     <item>
       <title>Version 4.17.2</title>
       <pubDate>Fri, 07 Aug 2020 09:03:15 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.17.2/AltTab-4.17.2.zip"
@@ -2023,7 +2023,7 @@
     <item>
       <title>Version 4.17.1</title>
       <pubDate>Fri, 07 Aug 2020 08:33:47 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.17.1/AltTab-4.17.1.zip"
@@ -2037,7 +2037,7 @@
     <item>
       <title>Version 4.17.0</title>
       <pubDate>Fri, 07 Aug 2020 05:16:46 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.17.0/AltTab-4.17.0.zip"
@@ -2051,7 +2051,7 @@
     <item>
       <title>Version 4.16.0</title>
       <pubDate>Thu, 06 Aug 2020 21:27:01 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.16.0/AltTab-4.16.0.zip"
@@ -2065,7 +2065,7 @@
     <item>
       <title>Version 4.15.0</title>
       <pubDate>Thu, 06 Aug 2020 16:50:12 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.15.0/AltTab-4.15.0.zip"
@@ -2079,7 +2079,7 @@
     <item>
       <title>Version 4.14.0</title>
       <pubDate>Thu, 06 Aug 2020 14:34:30 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.14.0/AltTab-4.14.0.zip"
@@ -2093,7 +2093,7 @@
     <item>
       <title>Version 4.13.1</title>
       <pubDate>Wed, 05 Aug 2020 20:35:05 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.13.1/AltTab-4.13.1.zip"
@@ -2107,7 +2107,7 @@
     <item>
       <title>Version 4.13.0</title>
       <pubDate>Wed, 05 Aug 2020 19:34:24 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.13.0/AltTab-4.13.0.zip"
@@ -2121,7 +2121,7 @@
     <item>
       <title>Version 4.12.2</title>
       <pubDate>Tue, 04 Aug 2020 15:00:29 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.12.2/AltTab-4.12.2.zip"
@@ -2135,7 +2135,7 @@
     <item>
       <title>Version 4.12.1</title>
       <pubDate>Mon, 03 Aug 2020 18:25:33 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.12.1/AltTab-4.12.1.zip"
@@ -2149,7 +2149,7 @@
     <item>
       <title>Version 4.12.0</title>
       <pubDate>Mon, 03 Aug 2020 16:02:43 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.12.0/AltTab-4.12.0.zip"
@@ -2163,7 +2163,7 @@
     <item>
       <title>Version 4.11.1</title>
       <pubDate>Thu, 30 Jul 2020 11:21:16 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.11.1/AltTab-4.11.1.zip"
@@ -2177,7 +2177,7 @@
     <item>
       <title>Version 4.11.0</title>
       <pubDate>Wed, 29 Jul 2020 19:00:29 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.11.0/AltTab-4.11.0.zip"
@@ -2191,7 +2191,7 @@
     <item>
       <title>Version 4.10.0</title>
       <pubDate>Tue, 28 Jul 2020 15:37:29 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.10.0/AltTab-4.10.0.zip"
@@ -2205,7 +2205,7 @@
     <item>
       <title>Version 4.9.1</title>
       <pubDate>Wed, 22 Jul 2020 16:04:45 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.9.1/AltTab-4.9.1.zip"
@@ -2219,7 +2219,7 @@
     <item>
       <title>Version 4.9.0</title>
       <pubDate>Wed, 22 Jul 2020 14:42:13 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.9.0/AltTab-4.9.0.zip"
@@ -2233,7 +2233,7 @@
     <item>
       <title>Version 4.8.1</title>
       <pubDate>Tue, 21 Jul 2020 18:24:52 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.8.1/AltTab-4.8.1.zip"
@@ -2247,7 +2247,7 @@
     <item>
       <title>Version 4.8.0</title>
       <pubDate>Tue, 21 Jul 2020 16:38:57 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.8.0/AltTab-4.8.0.zip"
@@ -2261,7 +2261,7 @@
     <item>
       <title>Version 4.7.2</title>
       <pubDate>Tue, 21 Jul 2020 09:40:42 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.7.2/AltTab-4.7.2.zip"
@@ -2275,7 +2275,7 @@
     <item>
       <title>Version 4.7.1</title>
       <pubDate>Tue, 21 Jul 2020 08:17:55 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.7.1/AltTab-4.7.1.zip"
@@ -2289,7 +2289,7 @@
     <item>
       <title>Version 4.7.0</title>
       <pubDate>Mon, 20 Jul 2020 22:25:01 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.7.0/AltTab-4.7.0.zip"
@@ -2303,7 +2303,7 @@
     <item>
       <title>Version 4.6.0</title>
       <pubDate>Mon, 20 Jul 2020 02:06:16 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.6.0/AltTab-4.6.0.zip"
@@ -2317,7 +2317,7 @@
     <item>
       <title>Version 4.5.0</title>
       <pubDate>Fri, 17 Jul 2020 18:47:49 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.5.0/AltTab-4.5.0.zip"
@@ -2331,7 +2331,7 @@
     <item>
       <title>Version 4.4.0</title>
       <pubDate>Wed, 15 Jul 2020 17:43:33 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.4.0/AltTab-4.4.0.zip"
@@ -2345,7 +2345,7 @@
     <item>
       <title>Version 4.3.0</title>
       <pubDate>Tue, 14 Jul 2020 13:23:43 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.3.0/AltTab-4.3.0.zip"
@@ -2359,7 +2359,7 @@
     <item>
       <title>Version 4.2.0</title>
       <pubDate>Sat, 11 Jul 2020 19:17:25 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.2.0/AltTab-4.2.0.zip"
@@ -2373,7 +2373,7 @@
     <item>
       <title>Version 4.1.7</title>
       <pubDate>Fri, 10 Jul 2020 18:46:24 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.1.7/AltTab-4.1.7.zip"
@@ -2387,7 +2387,7 @@
     <item>
       <title>Version 4.1.6</title>
       <pubDate>Wed, 08 Jul 2020 11:44:14 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.1.6/AltTab-4.1.6.zip"
@@ -2401,7 +2401,7 @@
     <item>
       <title>Version 4.1.5</title>
       <pubDate>Fri, 03 Jul 2020 05:15:43 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.1.5/AltTab-4.1.5.zip"
@@ -2415,7 +2415,7 @@
     <item>
       <title>Version 4.1.4</title>
       <pubDate>Tue, 23 Jun 2020 16:57:40 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.1.4/AltTab-4.1.4.zip"
@@ -2429,7 +2429,7 @@
     <item>
       <title>Version 4.1.3</title>
       <pubDate>Tue, 16 Jun 2020 04:39:55 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.1.3/AltTab-4.1.3.zip"
@@ -2443,7 +2443,7 @@
     <item>
       <title>Version 4.1.2</title>
       <pubDate>Tue, 09 Jun 2020 09:44:53 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.1.2/AltTab-4.1.2.zip"
@@ -2457,7 +2457,7 @@
     <item>
       <title>Version 4.1.1</title>
       <pubDate>Sun, 07 Jun 2020 14:53:05 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.1.1/AltTab-4.1.1.zip"
@@ -2471,7 +2471,7 @@
     <item>
       <title>Version 4.1.0</title>
       <pubDate>Thu, 28 May 2020 17:10:45 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.1.0/AltTab-4.1.0.zip"
@@ -2485,7 +2485,7 @@
     <item>
       <title>Version 4.0.1</title>
       <pubDate>Thu, 28 May 2020 16:47:02 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.0.1/AltTab-4.0.1.zip"
@@ -2499,7 +2499,7 @@
     <item>
       <title>Version 4.0.0</title>
       <pubDate>Mon, 25 May 2020 17:38:19 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v4.0.0/AltTab-4.0.0.zip"
@@ -2513,7 +2513,7 @@
     <item>
       <title>Version 3.24.1</title>
       <pubDate>Fri, 22 May 2020 11:37:34 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.24.1/AltTab-3.24.1.zip"
@@ -2527,7 +2527,7 @@
     <item>
       <title>Version 3.24.0</title>
       <pubDate>Thu, 21 May 2020 12:11:27 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.24.0/AltTab-3.24.0.zip"
@@ -2541,7 +2541,7 @@
     <item>
       <title>Version 3.23.2</title>
       <pubDate>Thu, 21 May 2020 03:35:50 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.23.2/AltTab-3.23.2.zip"
@@ -2555,7 +2555,7 @@
     <item>
       <title>Version 3.23.1</title>
       <pubDate>Wed, 13 May 2020 04:28:40 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.23.1/AltTab-3.23.1.zip"
@@ -2569,7 +2569,7 @@
     <item>
       <title>Version 3.23.0</title>
       <pubDate>Mon, 11 May 2020 14:56:12 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.23.0/AltTab-3.23.0.zip"
@@ -2583,7 +2583,7 @@
     <item>
       <title>Version 3.22.6</title>
       <pubDate>Sun, 10 May 2020 19:58:50 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.22.6/AltTab-3.22.6.zip"
@@ -2597,7 +2597,7 @@
     <item>
       <title>Version 3.22.5</title>
       <pubDate>Sun, 10 May 2020 18:46:29 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.22.5/AltTab-3.22.5.zip"
@@ -2611,7 +2611,7 @@
     <item>
       <title>Version 3.22.4</title>
       <pubDate>Sun, 10 May 2020 14:45:16 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.22.4/AltTab-3.22.4.zip"
@@ -2625,7 +2625,7 @@
     <item>
       <title>Version 3.22.3</title>
       <pubDate>Sun, 10 May 2020 03:43:03 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.22.3/AltTab-3.22.3.zip"
@@ -2639,7 +2639,7 @@
     <item>
       <title>Version 3.22.2</title>
       <pubDate>Sun, 10 May 2020 03:14:26 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.22.2/AltTab-3.22.2.zip"
@@ -2653,7 +2653,7 @@
     <item>
       <title>Version 3.22.1</title>
       <pubDate>Sun, 10 May 2020 02:46:32 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://lwouis.github.io/alt-tab-macos/CHANGELOG</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.22.1/AltTab-3.22.1.zip"
@@ -2667,7 +2667,7 @@
     <item>
       <title>Version 3.22.0</title>
       <pubDate>Sun, 10 May 2020 01:27:47 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.22.0/AltTab-3.22.0.zip"
@@ -2681,7 +2681,7 @@
     <item>
       <title>Version 3.21.2</title>
       <pubDate>Fri, 08 May 2020 17:09:47 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.21.2/AltTab-3.21.2.zip"
         sparkle:version="3.21.2"
@@ -2694,7 +2694,7 @@
     <item>
       <title>Version 3.21.1</title>
       <pubDate>Fri, 08 May 2020 11:23:08 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.21.1/AltTab-3.21.1.zip"
         sparkle:version="3.21.1"
@@ -2707,7 +2707,7 @@
     <item>
       <title>Version 3.21.0</title>
       <pubDate>Thu, 07 May 2020 20:23:02 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.21.0/AltTab-3.21.0.zip"
         sparkle:version="3.21.0"
@@ -2720,7 +2720,7 @@
     <item>
       <title>Version 3.20.0</title>
       <pubDate>Thu, 07 May 2020 18:39:50 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.20.0/AltTab-3.20.0.zip"
         sparkle:version="3.20.0"
@@ -2733,7 +2733,7 @@
     <item>
       <title>Version 3.19.2</title>
       <pubDate>Thu, 07 May 2020 05:19:28 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.19.2/AltTab-3.19.2.zip"
         sparkle:version="3.19.2"
@@ -2746,7 +2746,7 @@
     <item>
       <title>Version 3.19.1</title>
       <pubDate>Wed, 06 May 2020 17:44:04 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.19.1/AltTab-3.19.1.zip"
         sparkle:version="3.19.1"
@@ -2759,7 +2759,7 @@
     <item>
       <title>Version 3.19.0</title>
       <pubDate>Wed, 06 May 2020 17:10:59 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.19.0/AltTab-3.19.0.zip"
         sparkle:version="3.19.0"
@@ -2772,7 +2772,7 @@
     <item>
       <title>Version 3.18.0</title>
       <pubDate>Tue, 05 May 2020 19:43:44 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.18.0/AltTab-3.18.0.zip"
         sparkle:version="3.18.0"
@@ -2785,7 +2785,7 @@
     <item>
       <title>Version 3.17.2</title>
       <pubDate>Tue, 05 May 2020 09:48:16 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.17.2/AltTab-3.17.2.zip"
         sparkle:version="3.17.2"
@@ -2798,7 +2798,7 @@
     <item>
       <title>Version 3.17.1</title>
       <pubDate>Wed, 29 Apr 2020 18:09:17 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.17.1/AltTab-3.17.1.zip"
         sparkle:version="3.17.1"
@@ -2811,7 +2811,7 @@
     <item>
       <title>Version 3.17.0</title>
       <pubDate>Mon, 27 Apr 2020 10:10:30 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.17.0/AltTab-3.17.0.zip"
         sparkle:version="3.17.0"
@@ -2824,7 +2824,7 @@
     <item>
       <title>Version 3.16.3</title>
       <pubDate>Sat, 25 Apr 2020 16:46:13 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.16.3/AltTab-3.16.3.zip"
         sparkle:version="3.16.3"
@@ -2837,7 +2837,7 @@
     <item>
       <title>Version 3.16.2</title>
       <pubDate>Sat, 25 Apr 2020 03:01:28 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.16.2/AltTab-3.16.2.zip"
         sparkle:version="3.16.2"
@@ -2850,7 +2850,7 @@
     <item>
       <title>Version 3.16.1</title>
       <pubDate>Fri, 24 Apr 2020 23:01:24 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.16.1/AltTab-3.16.1.zip"
         sparkle:version="3.16.1"
@@ -2863,7 +2863,7 @@
     <item>
       <title>Version 3.16.0</title>
       <pubDate>Fri, 24 Apr 2020 01:49:18 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.16.0/AltTab-3.16.0.zip"
         sparkle:version="3.16.0"
@@ -2876,7 +2876,7 @@
     <item>
       <title>Version 3.15.0</title>
       <pubDate>Thu, 23 Apr 2020 18:33:10 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.15.0/AltTab-3.15.0.zip"
         sparkle:version="3.15.0"
@@ -2889,7 +2889,7 @@
     <item>
       <title>Version 3.14.0</title>
       <pubDate>Wed, 22 Apr 2020 18:13:37 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.14.0/AltTab-3.14.0.zip"
         sparkle:version="3.14.0"
@@ -2902,7 +2902,7 @@
     <item>
       <title>Version 3.13.0</title>
       <pubDate>Tue, 21 Apr 2020 11:48:37 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.13.0/AltTab-3.13.0.zip"
         sparkle:version="3.13.0"
@@ -2915,7 +2915,7 @@
     <item>
       <title>Version 3.12.0</title>
       <pubDate>Mon, 20 Apr 2020 13:14:34 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.12.0/AltTab-3.12.0.zip"
         sparkle:version="3.12.0"
@@ -2928,7 +2928,7 @@
     <item>
       <title>Version 3.11.0</title>
       <pubDate>Sun, 19 Apr 2020 16:57:56 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.11.0/AltTab-3.11.0.zip"
         sparkle:version="3.11.0"
@@ -2941,7 +2941,7 @@
     <item>
       <title>Version 3.10.0</title>
       <pubDate>Sun, 19 Apr 2020 09:00:57 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.10.0/AltTab-3.10.0.zip"
         sparkle:version="3.10.0"
@@ -2954,7 +2954,7 @@
     <item>
       <title>Version 3.9.1</title>
       <pubDate>Sat, 18 Apr 2020 18:39:37 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.9.1/AltTab-3.9.1.zip"
         sparkle:version="3.9.1"
@@ -2967,7 +2967,7 @@
     <item>
       <title>Version 3.9.0</title>
       <pubDate>Sat, 18 Apr 2020 16:37:30 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.9.0/AltTab-3.9.0.zip"
         sparkle:version="3.9.0"
@@ -2980,7 +2980,7 @@
     <item>
       <title>Version 3.8.0</title>
       <pubDate>Sat, 18 Apr 2020 15:45:10 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.8.0/AltTab-3.8.0.zip"
         sparkle:version="3.8.0"
@@ -2993,7 +2993,7 @@
     <item>
       <title>Version 3.7.3</title>
       <pubDate>Thu, 09 Apr 2020 07:51:32 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.7.3/AltTab-3.7.3.zip"
         sparkle:version="3.7.3"
@@ -3006,7 +3006,7 @@
     <item>
       <title>Version 3.7.2</title>
       <pubDate>Thu, 09 Apr 2020 06:03:27 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.7.2/AltTab-3.7.2.zip"
@@ -3020,7 +3020,7 @@
     <item>
       <title>Version 3.7.1</title>
       <pubDate>Wed, 08 Apr 2020 18:33:10 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.7.1/AltTab-3.7.1.zip"
@@ -3034,7 +3034,7 @@
     <item>
       <title>Version 3.7.0</title>
       <pubDate>Wed, 08 Apr 2020 15:14:08 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.7.0/AltTab-3.7.0.zip"
@@ -3048,7 +3048,7 @@
     <item>
       <title>Version 3.6.2</title>
       <pubDate>Wed, 08 Apr 2020 10:37:13 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.6.2/AltTab-3.6.2.zip"
@@ -3062,7 +3062,7 @@
     <item>
       <title>Version 3.6.1</title>
       <pubDate>Wed, 08 Apr 2020 07:25:44 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.6.1/AltTab-3.6.1.zip"
@@ -3076,7 +3076,7 @@
     <item>
       <title>Version 3.6.0</title>
       <pubDate>Tue, 07 Apr 2020 09:14:24 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.6.0/AltTab-3.6.0.zip"
@@ -3090,7 +3090,7 @@
     <item>
       <title>Version 3.5.0</title>
       <pubDate>Sun, 05 Apr 2020 13:35:21 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.5.0/AltTab-3.5.0.zip"
@@ -3104,7 +3104,7 @@
     <item>
       <title>Version 3.4.1</title>
       <pubDate>Sun, 05 Apr 2020 13:20:12 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.4.1/AltTab-3.4.1.zip"
@@ -3118,7 +3118,7 @@
     <item>
       <title>Version 3.4.0</title>
       <pubDate>Fri, 03 Apr 2020 06:51:12 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.4.0/AltTab-3.4.0.zip"
@@ -3132,7 +3132,7 @@
     <item>
       <title>Version 3.3.3</title>
       <pubDate>Fri, 03 Apr 2020 04:18:26 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.3.3/AltTab-3.3.3.zip"
@@ -3146,7 +3146,7 @@
     <item>
       <title>Version 3.3.2</title>
       <pubDate>Thu, 02 Apr 2020 16:23:14 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.3.2/AltTab-3.3.2.zip"
@@ -3160,7 +3160,7 @@
     <item>
       <title>Version 3.3.1</title>
       <pubDate>Thu, 02 Apr 2020 12:33:49 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.3.1/AltTab-3.3.1.zip"
@@ -3174,7 +3174,7 @@
     <item>
       <title>Version 3.3.0</title>
       <pubDate>Thu, 02 Apr 2020 10:46:53 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.3.0/AltTab-3.3.0.zip"
@@ -3188,7 +3188,7 @@
     <item>
       <title>Version 3.2.1</title>
       <pubDate>Wed, 25 Mar 2020 05:50:32 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.2.1/AltTab-3.2.1.zip"
@@ -3202,7 +3202,7 @@
     <item>
       <title>Version 3.2.0</title>
       <pubDate>Tue, 24 Mar 2020 11:09:19 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.2.0/AltTab-3.2.0.zip"
@@ -3216,7 +3216,7 @@
     <item>
       <title>Version 3.1.3</title>
       <pubDate>Thu, 12 Mar 2020 08:32:27 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.1.3/AltTab-3.1.3.zip"
@@ -3230,7 +3230,7 @@
     <item>
       <title>Version 3.1.2</title>
       <pubDate>Thu, 12 Mar 2020 03:15:56 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.1.2/AltTab-3.1.2.zip"
@@ -3244,7 +3244,7 @@
     <item>
       <title>Version 3.1.1</title>
       <pubDate>Wed, 11 Mar 2020 16:03:52 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.1.1/AltTab-3.1.1.zip"
@@ -3258,7 +3258,7 @@
     <item>
       <title>Version 3.1.0</title>
       <pubDate>Tue, 10 Mar 2020 17:21:29 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.1.0/AltTab-3.1.0.zip"
@@ -3272,7 +3272,7 @@
     <item>
       <title>Version 3.0.5</title>
       <pubDate>Tue, 10 Mar 2020 14:03:49 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.0.5/AltTab-3.0.5.zip"
@@ -3286,7 +3286,7 @@
     <item>
       <title>Version 3.0.4</title>
       <pubDate>Tue, 10 Mar 2020 12:48:38 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.0.4/AltTab-3.0.4.zip"
@@ -3300,7 +3300,7 @@
     <item>
       <title>Version 3.0.3</title>
       <pubDate>Tue, 10 Mar 2020 11:10:39 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.0.3/AltTab-3.0.3.zip"
@@ -3314,7 +3314,7 @@
     <item>
       <title>Version 3.0.2</title>
       <pubDate>Tue, 10 Mar 2020 10:19:08 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.0.2/AltTab-3.0.2.zip"
@@ -3328,7 +3328,7 @@
     <item>
       <title>Version 3.0.1</title>
       <pubDate>Tue, 10 Mar 2020 09:34:49 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.0.1/AltTab-3.0.1.zip"
@@ -3342,7 +3342,7 @@
     <item>
       <title>Version 3.0.0</title>
       <pubDate>Tue, 10 Mar 2020 09:03:47 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/lwouis/alt-tab-macos/releases/download/v3.0.0/AltTab-3.0.0.zip"

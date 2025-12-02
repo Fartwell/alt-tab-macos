@@ -10,9 +10,9 @@
         <customObject id="YLy-65-1bz" customClass="NSFontManager"/>
         <menu title="Main Menu" systemMenu="main" id="AYu-sK-qS6">
             <items>
-                <menuItem title="AltTab" id="1Xt-HY-uBw">
+                <menuItem title="AltTabSequoia" id="1Xt-HY-uBw">
                     <modifierMask key="keyEquivalentModifierMask"/>
-                    <menu key="submenu" title="AltTab" systemMenu="apple" id="uQy-DD-JDr">
+                    <menu key="submenu" title="AltTabSequoia" systemMenu="apple" id="uQy-DD-JDr">
                         <items>
                             <menuItem title="Preferences…" keyEquivalent="," id="BOF-NM-1cW"/>
                             <menuItem isSeparatorItem="YES" id="wFC-TO-SCJ"/>
@@ -28,7 +28,7 @@
                                 </connections>
                             </menuItem>
                             <menuItem isSeparatorItem="YES" id="kCx-OE-vgT"/>
-                            <menuItem title="Quit AltTab" keyEquivalent="q" id="4sb-4s-VLi">
+                            <menuItem title="Quit AltTabSequoia" keyEquivalent="q" id="4sb-4s-VLi">
                                 <connections>
                                     <action selector="terminate:" target="-1" id="Te7-pn-YzF"/>
                                 </connections>
@@ -570,7 +570,7 @@
                     <modifierMask key="keyEquivalentModifierMask"/>
                     <menu key="submenu" title="Help" systemMenu="help" id="F2S-fz-NVQ">
                         <items>
-                            <menuItem title="AltTab Help" keyEquivalent="?" id="FKE-Sm-Kum">
+                            <menuItem title="AltTabSequoia Help" keyEquivalent="?" id="FKE-Sm-Kum">
                                 <connections>
                                     <action selector="showHelp:" target="-1" id="y7X-2Q-9no"/>
                                 </connections>

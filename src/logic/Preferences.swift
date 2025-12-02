@@ -184,6 +184,13 @@ class Preferences {
         return Preferences.showAppsOrWindows == .applications && Preferences.appearanceStyle != .thumbnails
     }
 
+    static func shouldHideInsteadOfClose(_ bundleIdentifier: String?) -> Bool {
+        guard let bundleIdentifier else { return false }
+        return Preferences.blacklist.contains {
+            bundleIdentifier.hasPrefix($0.bundleIdentifier) && $0.hide == .whenAppIsHidden
+        }
+    }
+
     /// key-above-tab is ` on US keyboard, but can be different on other keyboards
     static func keyAboveTabDependingOnInputSource() -> String {
         return LiteralKeyCodeTransformer.shared.transformedValue(NSNumber(value: kVK_ANSI_Grave)) ?? "`"

@@ -105,7 +105,7 @@ class GeneralTab {
             try FileManager.default.createDirectory(at: launchAgentsPath, withIntermediateDirectories: false)
             Logger.debug(launchAgentsPath.absoluteString + " created")
         }
-        launchAgentsPath.appendPathComponent("com.lwouis.alt-tab-macos.plist", isDirectory: false)
+        launchAgentsPath.appendPathComponent("\(App.bundleIdentifier).plist", isDirectory: false)
         if sender.state == .on {
             let data = try PropertyListSerialization.data(fromPropertyList: launchAgentPlist, format: .xml, options: 0)
             try data.write(to: launchAgentsPath, options: [.atomic])
